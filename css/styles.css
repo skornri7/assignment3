@@ -1,5 +1,6 @@
 .logo {
     height: 7em;
+    
 }
 
 header {
@@ -7,6 +8,7 @@ header {
     align-items: center;
     padding: 1.5em
 }
+
 
 header nav {
     flex: .25;
@@ -26,6 +28,7 @@ header nav ul {
 
 header nav li {
     padding: 2em
+        
 }
 
 body {
@@ -35,6 +38,7 @@ body {
 
 h1, h2, p {
     padding-left: 3em;
+    
 }
 
 
@@ -46,8 +50,26 @@ h1, h2, p {
 
 .font1 {
     font-family: cursive;
+    
 }
 
 #font1 {
     font-family: fantasy
+        
+}
+
+div ul {
+    font-size: 150%
+    
+}
+
+.header {
+    font-size: 200%
+        
+}
+
+div img {
+    padding-left: 3em;
+    height: 300px;
+    
 }
